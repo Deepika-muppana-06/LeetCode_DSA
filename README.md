@@ -9,6 +9,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0001-two-sum](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,12 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
