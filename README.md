@@ -20,4 +20,16 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
