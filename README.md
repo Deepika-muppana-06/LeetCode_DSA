@@ -13,6 +13,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
