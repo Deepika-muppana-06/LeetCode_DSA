@@ -8,6 +8,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
