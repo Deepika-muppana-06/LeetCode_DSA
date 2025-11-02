@@ -42,6 +42,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 ## Memoization
 |  |
@@ -51,6 +52,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
