@@ -12,6 +12,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
