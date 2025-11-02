@@ -11,6 +11,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -82,8 +83,13 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
