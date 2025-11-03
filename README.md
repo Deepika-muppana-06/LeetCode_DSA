@@ -23,6 +23,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
 ## Greedy
 |  |
@@ -120,4 +122,5 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
