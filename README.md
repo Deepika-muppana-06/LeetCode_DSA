@@ -58,6 +58,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0455-assign-cookies](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Linked List
 |  |
 | ------- |
