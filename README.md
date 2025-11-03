@@ -15,6 +15,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0403-frog-jump](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
@@ -49,6 +50,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
+| [0403-frog-jump](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
