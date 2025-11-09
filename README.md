@@ -53,10 +53,12 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0403-frog-jump) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
