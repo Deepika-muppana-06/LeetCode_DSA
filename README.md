@@ -26,6 +26,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0001-two-sum](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Sliding Window
 |  |
