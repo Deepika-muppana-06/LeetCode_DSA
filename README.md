@@ -10,6 +10,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0047-permutations-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
@@ -26,6 +27,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0001-two-sum](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -152,4 +154,8 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
