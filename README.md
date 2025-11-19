@@ -21,6 +21,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0455-assign-cookies](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -111,6 +113,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Stack
 |  |
