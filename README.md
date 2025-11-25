@@ -30,6 +30,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -49,6 +50,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -132,6 +134,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
 ## Greedy
