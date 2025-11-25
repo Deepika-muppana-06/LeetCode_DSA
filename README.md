@@ -50,6 +50,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Dynamic Programming
