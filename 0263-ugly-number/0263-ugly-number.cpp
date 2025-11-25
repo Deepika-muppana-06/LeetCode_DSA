@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isUgly(int n) {
-        if(n==1||n==2||n==3||n==5) return true;
+        //if(n==1||n==2||n==3||n==5) return true;
         if(n<=0) return false;
 
         while(n%2==0) n=n/2;
