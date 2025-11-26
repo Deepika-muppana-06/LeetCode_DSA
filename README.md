@@ -33,6 +33,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -77,6 +78,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Sliding Window
