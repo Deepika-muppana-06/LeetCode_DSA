@@ -22,6 +22,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0198-house-robber](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0403-frog-jump) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
@@ -166,4 +168,5 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 <!---LeetCode Topics End-->
