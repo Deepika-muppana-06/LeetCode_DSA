@@ -33,6 +33,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0142-linked-list-cycle-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
@@ -76,6 +77,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 ## Sliding Window
 |  |
@@ -116,6 +118,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0047-permutations-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0917-boats-to-save-people) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -123,6 +126,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0090-subsets-ii) |
+| [0389-find-the-difference](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0389-find-the-difference) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Heap (Priority Queue)
 |  |
