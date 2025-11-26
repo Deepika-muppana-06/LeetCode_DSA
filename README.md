@@ -56,6 +56,7 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | [0202-happy-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Dynamic Programming
@@ -175,4 +176,12 @@ A collection of my LeetCode problem solutions automatically synced to GitHub. Th
 | ------- |
 | [0036-valid-sudoku](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0036-valid-sudoku) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Deepika-muppana-06/LeetCode_DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
